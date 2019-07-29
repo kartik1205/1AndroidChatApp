@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "784118822906",
+    "firebase_url": "https://chatappwerpnigeria.firebaseio.com",
+    "project_id": "chatappwerpnigeria",
+    "storage_bucket": "chatappwerpnigeria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784118822906:android:e7ccd20ee7844ed1",
+        "android_client_info": {
+          "package_name": "com.androidchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784118822906-u61tacv1gchj6lofk0uf58gpjhip9leu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidchatapp",
+            "certificate_hash": "ed37b3300f04b146b21b0145871364fd2fcdd10b"
+          }
+        },
+        {
+          "client_id": "784118822906-b0pm8fbrab5ru31ogfm6fisba3fl4m4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnWrNNwKPfFWUiQ0O73WJSwJ_8HJb-YEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784118822906-b0pm8fbrab5ru31ogfm6fisba3fl4m4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
